@@ -1,0 +1,54 @@
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\sb-admin-2.Web.dll.config
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\sb-admin-2.Web.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\sb-admin-2.Web.pdb
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\Antlr3.Runtime.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\Microsoft.Web.Infrastructure.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\Newtonsoft.Json.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Helpers.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Mvc.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Optimization.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Razor.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.WebPages.Deployment.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.WebPages.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.WebPages.Razor.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\WebGrease.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Helpers.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Mvc.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Optimization.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.Razor.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.WebPages.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.WebPages.Deployment.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\System.Web.WebPages.Razor.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\Antlr3.Runtime.pdb
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\bin\Newtonsoft.Json.xml
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\obj\Debug\UISPortal.csprojResolveAssemblyReference.cache
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\obj\Debug\sb-admin-2.Web.dll
+c:\users\abida\documents\visual studio 2013\Projects\UISPortal\UISPortal\obj\Debug\sb-admin-2.Web.pdb
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\sb-admin-2.Web.dll.config
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\sb-admin-2.Web.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\sb-admin-2.Web.pdb
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\Antlr3.Runtime.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\Newtonsoft.Json.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Helpers.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Mvc.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Optimization.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Razor.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.WebPages.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.WebPages.Razor.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\WebGrease.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Helpers.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Mvc.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Optimization.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.Razor.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.WebPages.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\System.Web.WebPages.Razor.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\Antlr3.Runtime.pdb
+D:\Projects\MBRSC\UISPortal\UISPortal\bin\Newtonsoft.Json.xml
+D:\Projects\MBRSC\UISPortal\UISPortal\obj\Debug\UISPortal.csprojAssemblyReference.cache
+D:\Projects\MBRSC\UISPortal\UISPortal\obj\Debug\UISPortal.csproj.CoreCompileInputs.cache
+D:\Projects\MBRSC\UISPortal\UISPortal\obj\Debug\UISPortal.csproj.CopyComplete
+D:\Projects\MBRSC\UISPortal\UISPortal\obj\Debug\sb-admin-2.Web.dll
+D:\Projects\MBRSC\UISPortal\UISPortal\obj\Debug\sb-admin-2.Web.pdb
