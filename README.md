@@ -5,4 +5,6 @@ Download Solution and Use
 
 ASP MVC 5 with sb admin 2 bootstrap template - Visual Studio 2017
 
-## Credits to : AdminLTE was created and is maintained by Abdullah Almsaeed. - https://almsaeedstudio.com/
+Live Preview : https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
+
+Mode Details : https://startbootstrap.com/template-overviews/sb-admin-2/
