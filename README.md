@@ -1,4 +1,4 @@
-SB ADmin 2 Templates - Visual Stuio 2017
+SB ADmin 2 Templates - Visual Studio 2017 by Haneef Puttur
 Most up to date
 Download Solution and Use
 
